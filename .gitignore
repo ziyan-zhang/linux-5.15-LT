@@ -164,3 +164,11 @@ sphinx_*/
 
 # 我把linux编译在了此处
 ./Linux_compiled
+
+# vscode的一些文件
+.clang-format
+.cocciconfig
+.get_maintainer.ignore
+.gitattributes
+.gitignore
+.mailmap
